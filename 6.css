@@ -1,0 +1,61 @@
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; background-color: FFFFFF }
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1528px; height: 200px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#4{
+	top: 0px;
+	left: 0px;
+	width: 1528px;
+	height: 500px;
+	background:#;
+}
+
+#страхует {
+	top: 0%;
+	left: 0%;
+	high: 100%;
+}
+
+#фон {
+	top: 0%;
+	left: 0%;
+	width: 100%;
+}
+
+#Картинка1 {
+	top: 56%;
+	right: 21%;
+	width: 14%;
+}
+
+#Картинка2 {
+	top: 0%;
+	left: 0%;
+	width: 28%;
+}
+
+#Картинка3 {
+	top: 92%;
+	left: 0%;
+	width: 26%;
+}
+
+#Картинка4 {
+	top: 50%;
+	left: 12%;
+	width: 16%;
+}
+
+#Картинка5 {
+	top: 80%;
+	left: 41%;
+	width: 24%;
+}
+
+#Картинка6 {
+	top: 103%;
+	right: 0%;
+	width: 18%;
+}
